@@ -18,6 +18,12 @@
     #page-home main {
         align-items: center;
     }
+    #page-search-results .cards {
+        grid-template-columns: 1fr 1fr;
+    }
+    #page-search-results .cards img {
+        height: 200px;
+    }
 }
 @media (min-width: 1440px) {
     #page-home {
@@ -27,5 +33,10 @@
 @media (max-height: 760px) {
     #page-home {
         background-position-y: 200px;
+    }
+}
+@media (max-width: 500px) {
+    #page-search-results .cards {
+        grid-template-columns: 1fr;
     }
 }
