@@ -1,6 +1,6 @@
 # Ecoleta
 
-Aplicação web desenvolvida na semana da **Next Level Week #02** da [RocketSeat](https://rocketseat.com.br/), com finalidade de fazer o cadastro e busca de pontos de coleta de resíduos para descartes.
+Aplicação web desenvolvida na semana da **Next Level Week #01** da [RocketSeat](https://rocketseat.com.br/), com finalidade de fazer o cadastro e busca de pontos de coleta de resíduos para descartes.
 
 
 ## Instalação
